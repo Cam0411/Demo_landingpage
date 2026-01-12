@@ -24,6 +24,11 @@ const CaseStudySlider: React.FC = () => {
       url: "https://w.ladicdn.com/s750x600/66af1bde8826300012e8f152/485753215_970578605256361_5397847747186337382_n-20251111132338-lcz09.jpg",
       title: "Ứng dụng AI vào quy trình",
       desc: "Tối ưu hóa nội dung bằng các công cụ AI hiện đại nhất."
+    },
+    {
+      url: "https://w.ladicdn.com/s750x600/66af1bde8826300012e8f152/485753215_970578605256361_5397847747186337382_n-20251111132338-lcz09.jpg",
+      title: "Ứng dụng AI vào quy trình",
+      desc: "Tối ưu hóa nội dung bằng các công cụ AI hiện đại nhất."
     }
   ];
 
